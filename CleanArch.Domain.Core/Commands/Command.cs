@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace CleanArch.Domain.Core.Commands
+{
+    using CleanArch.Domain.Core.Events;
+
+    public abstract class Command : Message
+    {
+        public DateTime TimeStamp{ get; protected set; }
+
+        protected Command()
+        {
+            TimeStamp = DateTime.Now;
+        }
+    }
+}

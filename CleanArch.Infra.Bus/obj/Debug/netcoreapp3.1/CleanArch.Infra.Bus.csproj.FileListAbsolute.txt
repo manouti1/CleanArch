@@ -1,0 +1,12 @@
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Bus\bin\Debug\netcoreapp3.1\CleanArch.Infra.Bus.deps.json
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Bus\bin\Debug\netcoreapp3.1\CleanArch.Infra.Bus.dll
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Bus\bin\Debug\netcoreapp3.1\CleanArch.Infra.Bus.pdb
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Bus\obj\Debug\netcoreapp3.1\CleanArch.Infra.Bus.csprojAssemblyReference.cache
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Bus\obj\Debug\netcoreapp3.1\CleanArch.Infra.Bus.AssemblyInfoInputs.cache
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Bus\obj\Debug\netcoreapp3.1\CleanArch.Infra.Bus.AssemblyInfo.cs
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Bus\obj\Debug\netcoreapp3.1\CleanArch.Infra.Bus.dll
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Bus\obj\Debug\netcoreapp3.1\CleanArch.Infra.Bus.pdb
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Bus\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Bus\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Bus\obj\Debug\netcoreapp3.1\CleanArch.Infra.Bus.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Bus\obj\Debug\netcoreapp3.1\CleanArch.Infra.Bus.csproj.CopyComplete

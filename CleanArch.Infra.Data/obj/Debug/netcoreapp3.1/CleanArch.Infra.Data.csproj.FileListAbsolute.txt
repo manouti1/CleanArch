@@ -1,0 +1,17 @@
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.deps.json
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.AssemblyInfo.cs
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.runtimeconfig.json
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.runtimeconfig.dev.json
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.genruntimeconfig.cache
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.csproj.CopyComplete
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
+C:\Users\Mohamad\Desktop\CleanArchitecture\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb
